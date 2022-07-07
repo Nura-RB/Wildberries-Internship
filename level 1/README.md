@@ -101,5 +101,7 @@ func main() {
 
 Например: 
 abcd — true
+
 abCdefAaf — false
+
 aabcd — false
